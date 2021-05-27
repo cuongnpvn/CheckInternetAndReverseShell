@@ -1,0 +1,13 @@
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\bin\Debug\netcoreapp3.1\CheckInternetAndReverseShell.exe
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\bin\Debug\netcoreapp3.1\CheckInternetAndReverseShell.deps.json
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\bin\Debug\netcoreapp3.1\CheckInternetAndReverseShell.runtimeconfig.json
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\bin\Debug\netcoreapp3.1\CheckInternetAndReverseShell.runtimeconfig.dev.json
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\bin\Debug\netcoreapp3.1\CheckInternetAndReverseShell.dll
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\bin\Debug\netcoreapp3.1\CheckInternetAndReverseShell.pdb
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\obj\Debug\netcoreapp3.1\CheckInternetAndReverseShell.csprojAssemblyReference.cache
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\obj\Debug\netcoreapp3.1\CheckInternetAndReverseShell.AssemblyInfoInputs.cache
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\obj\Debug\netcoreapp3.1\CheckInternetAndReverseShell.AssemblyInfo.cs
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\obj\Debug\netcoreapp3.1\CheckInternetAndReverseShell.csproj.CoreCompileInputs.cache
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\obj\Debug\netcoreapp3.1\CheckInternetAndReverseShell.dll
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\obj\Debug\netcoreapp3.1\CheckInternetAndReverseShell.pdb
+C:\Users\qt\source\repos\CheckInternetAndReverseShell\CheckInternetAndReverseShell\obj\Debug\netcoreapp3.1\CheckInternetAndReverseShell.genruntimeconfig.cache
